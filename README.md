@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talluri Sheshu</h1>
-<h3 align="center">A passionate Web3 and full-stack web developer</h3>
+<h3 align="center">A passionate WEB3 and full-stack web developer</h3>
 
 - 🔭 I’m currently working on **Building scalable Web3 applications while honing expertise in the MERN stack.**
 
