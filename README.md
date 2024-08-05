@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Talluri Sheshu</h1>
-<h3 align="center">A passionate WEB3 and Full-Stack Web developer</h3>
+<h3 align="center">A passionate Full-Stack Web developer</h3>
 
 - 🔭 I’m currently working on **Building scalable Web3 applications while honing expertise in the MERN stack.**
 
-- 👯 I’m looking to collaborate on **web3 projects**
+- 👯 I’m looking to collaborate on **web projects**
 
 - 🤝 I’m looking for help with **MERN full-stack developer with expertise in Web3 and a focus on blockchain best practices and smart contract development.**
 
