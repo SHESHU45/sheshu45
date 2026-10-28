@@ -145,21 +145,13 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img src="https://streak-stats.demolab.com?user=SHESHU45&theme=tokyonight&hide_border=true&background=0D1117&ring=915EFF&fire=00CEA8&currStreakLabel=915EFF" width="100%" alt="GitHub Streak" />
-    </td>
-    <td align="center" width="50%">
-      <a href="https://leetcode.com/u/SheshuTalluri/">
-        <img src="https://leetcard.jacoblin.cool/SheshuTalluri?theme=dark&font=JetBrains%20Mono&ext=contest" width="100%" alt="LeetCode Stats" />
-      </a>
     </td>
   </tr>
 </table>
 
 <br/>
-
-<!-- Full-width Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHESHU45&bg_color=050816&color=915EFF&line=00cea8&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:915EFF,50:1d1836,100:050816&height=110&section=footer" alt="Footer Wave" />
