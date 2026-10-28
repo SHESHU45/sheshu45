@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://my-portfolio-mzbh.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Ex-SDE+Intern+%40+Coupang+%E2%80%A2+QiCAP.Ai+(HFT)+%E2%80%A2+Groww;Architecting+Scalable+Distributed+Systems+%2B+Microservices;Open-Source+Contributor+%40+Apache+Airflow+%2B+Argo+Workflows;Codeforces+Expert+(1669)+%E2%80%A2+LeetCode+Knight+(1923)+%E2%80%A2+CodeChef+4%E2%98%85+(1840)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Ex-SDE+Intern+%40+Coupang+%E2%80%A2+QiCAP.Ai+(HFT)+%E2%80%A2+Groww;Architecting+Scalable+Distributed+Systems+%2B+Microservices;Open-Source+Contributor+%40+Apache+Airflow+%2B+Argo+Workflows;Codeforces+Expert+(1669);LeetCode+Knight+(1923)+%E2%80%A2+CodeChef+4%E2%98%85+(1840)" alt="Typing SVG" />
 </a>
 
 <br/>
